@@ -16,7 +16,7 @@ Python wrapper on [pypi/pip](https://pypi.org/project/kmedoids/) and [conda-forg
 ### Open for work
 
 In academia, you are expected to continuously apply for better positions and move on - that is the only way to advance your career.
-But I am no longer set on staying in academia. I would like to have more time for *programming*, and less administrative work.
+But I am not set on staying in academia. I would like to have more time for *programming*, and less administrative work, and universities cannot offer such positions.
 
 I am good at:
 - programming since 1989 in dozens of languages
@@ -29,7 +29,7 @@ I am good at:
 - automating with scripts (shell and Python, a long time ago in Perl)
 - Linux system administration (I am a Debian Linux Developer, although not very active right now at package maintainance)
 
-You can contact me if you have a *competitive* offer (six digits minimum), with the following constraints:
+You can contact me if you have a *competitive* offer (*no* junior positions), with the following constraints:
 
 - software development and research are my favorite, educational roles are fine (but I'd prefer less administrative work)
 - Germany, a relocation to central and well-connected cities such as Munich or Hannover is an option, but going to the US or UK is currently not an option for me because of family reasons. Remote is not my favorite, I am more productive at the office
