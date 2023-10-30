@@ -11,7 +11,7 @@ In particular, I am interested in:
 
 Most of my research is available as open-source, e.g., in the [ELKI data mining toolkit](https://elki-project.github.io/)
 and the [kmedoids Rust crate](https://crates.io/crates/kmedoids) and its
-Python wrapper on [pypi/pip](https://pypi.org/project/kmedoids/) and [conda-forge](https://anaconda.org/conda-forge/kmedoids).
+Python wrapper "kmedoids" available on [pypi/pip](https://pypi.org/project/kmedoids/) and [conda-forge](https://anaconda.org/conda-forge/kmedoids).
 
 ### Open for work
 
@@ -19,18 +19,18 @@ In academia, you are expected to continuously apply for better positions and mov
 But I am not set on staying in academia. I would like to have more time for *programming*, and less administrative work, and universities cannot offer such positions.
 
 I am good at:
-- programming since 1989 in dozens of languages
-- reading the code of others and helping them find the bugs they've been searching for weeks
+- programming since 1989 in dozens of languages (Java, Python, Rust, Perl, ...)
+- helping and teaching others resolve issues and speed up their code
 - teaching machine learning at a university level
 - improving algorithms
 - architecting Java projects with [200.000+ lines of code](https://www.openhub.net/p/elki/analyses/latest/languages_summary)
-- optimization and refactoring (my Java refactorings were even included in scientific studies)
+- optimization and refactoring (my Java refactoring work were even analyzed in scientific studies)
 - Python, Rust: experienced enough to publish the packages mentioned above and to [contribute fixes to scikit-learn](https://scikit-learn.org/stable/whats_new/v0.23.html)
 - automating with scripts (shell and Python, a long time ago in Perl)
-- Linux system administration (I am a Debian Linux Developer, although not very active right now at package maintainance)
+- Linux system administration (I am a member of the Debian Linux project, although not very active right now at package maintainance)
 
 You can contact me if you have a *competitive* offer (*no* junior positions), with the following constraints:
 
 - software development and research are my favorite, educational roles are fine (but I'd prefer less administrative work)
-- Germany, a relocation to central and well-connected cities such as Munich or Hannover is an option, but going to the US or UK is currently not an option for me because of family reasons. Remote is not my favorite, I am more productive at the office
-- *no sales or consulting positions*, I'd prefer *not* to have a customer-facing role and I do not like buzzword bingo
+- Germany, open for relocation to central and well-connected cities such as Munich or Hannover, Zürich, Luxembourg would also be okay, but moving to the US or UK is currently not an option because of family reasons. Remote is not my favorite, I am more productive at the office, but a possibility.
+- *no more sales or consulting positions*, I am interested in a *senior developer* or *senior researcher* position
